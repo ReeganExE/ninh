@@ -1,0 +1,1 @@
+(self.webpackChunkninh_js=self.webpackChunkninh_js||[]).push([[218],{938:function(n,e,s){"use strict";s.r(e);var u=s(5893);e.default=function(){return(0,u.jsx)("h3",{children:"404"})}}}]);
